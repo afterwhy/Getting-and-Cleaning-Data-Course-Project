@@ -1,0 +1,6 @@
+syntax: glob
+UCI HAR Dataset/
+*.txt
+*.RData
+*.html
+*.Rhistory
